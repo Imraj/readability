@@ -1,4 +1,4 @@
-# Readability
+# Readability with iframe support
 
 Turn any web page into a clean view. This module is based on arc90's readability project.
 

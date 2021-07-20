@@ -579,7 +579,7 @@ function prepArticle(articleContent) {
    ***/
   if (articleContent.getElementsByTagName('h2').length === 1) clean(articleContent, "h2");
 
-  clean(articleContent, "iframe");
+  ///clean(articleContent, "iframe");
 
   cleanHeaders(articleContent);
 
